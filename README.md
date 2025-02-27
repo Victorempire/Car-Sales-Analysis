@@ -1,7 +1,7 @@
 # Car Sales Analysis
 ## Project Overview
 The global automotive industry is a dynamic sector shaped by economic fluctuations, technology advancements, and evolving consumer preferences. Understanding sales trends is critical for stakeholders to optimize strategies, forecast demand, and maintain competitiveness. This project analyzes 23,906 car sales transactions recorded between January 2022 and December 2023 to uncover actionable insights into seasonal patterns, manufacturer performance, and income-driven purchasing behavior. 
-## Problem Statement
+## Problem Statementhttps://www.linkedin.com/posts/victor-onyedikachi-9b7672262_analyzing-a-car-sales-report-using-microsoft-activity-7293428466786463744-nEhy?utm_source=share&utm_medium=member_android&rcm=ACoAAECGshsB0EB1GojtKT3bLcTgrn34EI4lKjY
 This Project aims to analyze car sales trends using time series analysis, identifying key sales patterns across different time periods, market segments and forecasting and Correlation Analysis. The specific challenges addressed in this analysis include:
 - Sales Trends and Seasonality :
 Identifying sales variations by month, quarter, and year to understand peak and low-demand periods.
