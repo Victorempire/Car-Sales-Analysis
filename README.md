@@ -50,7 +50,7 @@ The following columns were Changed to the appropriate Data-type:
   company to Manufacturer
 
  Annual income to Customer Annual income.
-## Data Analysis
+## Data Analysis and Visualization
 ## Time Series Analysis Dashboard
 
 ![Time](https://github.com/user-attachments/assets/7c03dea5-06c4-4988-8003-7f06f21348a8)
