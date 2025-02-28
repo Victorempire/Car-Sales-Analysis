@@ -46,8 +46,10 @@ The following columns were Changed to the appropriate Data-type:
 3.  Gender: Text
 4. Annual Income: Whole Number
 5. Sales price: Whole Number
-6. Changed the following columns name to a more precise name: company to Manufacturer
-7. Annual income to Customer Annual income.
+### Changed the following columns name to a more precise name: 
+  company to Manufacturer
+
+ Annual income to Customer Annual income.
 ## Data Analysis
 ## Time Series Analysis Dashboard
 
