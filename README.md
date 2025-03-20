@@ -1,7 +1,7 @@
 # Car Sales Analysis
 # Table of Contents
 - [Project Overview](#Project-Overview)
--  [Methodology](##Methodology)
+-  [Methodology](#Methodology)
 ## Project Overview
 The global automotive industry is a dynamic sector shaped by economic fluctuations, technology advancements, and evolving consumer preferences. Understanding sales trends is critical for stakeholders to optimize strategies, forecast demand, and maintain competitiveness. This project analyzes 23,906 car sales transactions recorded between January 2022 and December 2023 to uncover actionable insights into seasonal patterns, manufacturer performance, and income-driven purchasing behavior. [Dynamic Dashboard Display here](//www.linkedin.com/posts/victor-onyedikachi-9b7672262_analyzing-a-car-sales-report-using-microsoft-activity-7293428466786463744-nEhy?utm_source=share&utm_medium=member_android&rcm=ACoAAECGshsB0EB1GojtKT3bLcTgrn34EI4lKjY)
 ## Problem Statement
