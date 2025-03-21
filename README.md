@@ -2,8 +2,8 @@
 # Table of Contents
 - [Project Overview](#Project-Overview)
 -  [Problem Statement](#Problem-Statement)
--  [Data Overview](#Data-Overview)
--  [Time Series Analysis Dashboard](#Time-Series-Analsysi-Dashboard)
+-  [Dataset Overview](#Dataset-Overview)
+-  [Time Series Analysis Dashboard](#Time-Series-Analysis-Dashboard)
 -  [Market Analysis Dashboard](#Market-Analysis-Dashboard)
 -  [Forecast Analsysis](#Forecast-Analysis)
 -  [Methodology](#Methodology)
